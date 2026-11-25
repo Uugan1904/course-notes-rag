@@ -1,0 +1,21 @@
+# Secrets: never commit these
+.env
+*.key
+cat > .gitignore << 'EOF'
+# Secrets: never commit these
+.env
+*.key
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local data: your notes and the search index stay on your machine
+data/notes/
+chroma_db/
+
+# Editor and OS junk
+.DS_Store
+.idea/
+.vscode/
