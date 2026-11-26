@@ -19,3 +19,8 @@ chroma_db/
 .DS_Store
 .idea/
 .vscode/
+
+# Build output
+*.egg-info/
+build/
+dist/
