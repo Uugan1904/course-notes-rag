@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: course-notes-rag
+Version: 0.1.0
+Summary: A study bot that answers questions from your own course notes, with citations.
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: python-dotenv
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+
+# Course Notes RAG
+
+A study bot that answers questions from your own course notes, with citations back to the source pages.
+
+**Status:** early development. Not usable yet.
+
+## Planned features
+- Ingest PDF and Markdown notes
+- Answer questions using only your notes, with page citations
+- Say "not in your notes" instead of guessing
+- Bring-your-own API key

@@ -1,0 +1,2 @@
+[console_scripts]
+notesbot = course_notes_rag.cli:main

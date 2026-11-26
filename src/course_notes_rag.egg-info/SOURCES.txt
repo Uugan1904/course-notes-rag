@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/course_notes_rag/__init__.py
+src/course_notes_rag/cli.py
+src/course_notes_rag/config.py
+src/course_notes_rag.egg-info/PKG-INFO
+src/course_notes_rag.egg-info/SOURCES.txt
+src/course_notes_rag.egg-info/dependency_links.txt
+src/course_notes_rag.egg-info/entry_points.txt
+src/course_notes_rag.egg-info/requires.txt
+src/course_notes_rag.egg-info/top_level.txt
+tests/test_smoke.py
